@@ -1,0 +1,10 @@
+^C:\USERS\SHISH\ONEDRIVE\DESKTOP\ECOM_STARTUP_CODE\CLIENT_SIDE\ADMIN_PANAL_STARTUP\BUILD\WINDOWS\X64\CMAKEFILES\0A972D8F69EBADABEFB87CA0B47A5DB4\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

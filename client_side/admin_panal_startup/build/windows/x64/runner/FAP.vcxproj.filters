@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\shish\OneDrive\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\flutter_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shish\OneDrive\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shish\OneDrive\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\run_loop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shish\OneDrive\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shish\OneDrive\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\win32_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\shish\OneDrive\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\flutter\generated_plugin_registrant.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\shish\OneDrive\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\shish\OneDrive\Desktop\ecom_startup_code\client_side\admin_panal_startup\windows\runner\Runner.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5152D83D-589F-39C9-B26A-CCC8057BC263}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
